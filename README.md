@@ -1,5 +1,5 @@
 # DiscordJS-V13-AntiCrash
-Simple Anti-Crash for your Discord.JS V13 Bot
+Simple Anti-Crash for your Discord.JS V13 & V14 Bot
 ## How to use
 1. Add Anti-Crash.js in your Events Folder
 2. Make a channel for only anti-crash stuff & make a new webhook in this channel
