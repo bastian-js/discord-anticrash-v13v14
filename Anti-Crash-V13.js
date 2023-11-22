@@ -1,3 +1,7 @@
+// programmed by bastian-js
+// https://github.com/bastian-js/
+// https://github.com/bastian-js/discord-anticrash-v13v14
+
 const chalk = require("chalk"); // Importing Chalk from Chalk
 const config = require("../../config.json");
 const { MessageEmbed, WebhookClient } = require("discord.js"); // Importing MessageEmbed from Discord.js
