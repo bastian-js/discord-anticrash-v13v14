@@ -1,3 +1,7 @@
+// programmed by bastian-js
+// https://github.com/bastian-js/
+// https://github.com/bastian-js/discord-anticrash-v13v14
+
 const { EmbedBuilder, WebhookClient } = require("discord.js");
 const { inspect } = require("util");
 const webhook = new WebhookClient({
